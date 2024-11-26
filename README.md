@@ -9,7 +9,7 @@
 
 <div> 
 </div>
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/1.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/dev.jpg">
 </div>
 
 </br>
@@ -100,7 +100,7 @@
 
 
   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mohit_dudhat22)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohit-dudhat/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/priyankadudhat27/)
 <!-- part 5 -->
 ---
 
