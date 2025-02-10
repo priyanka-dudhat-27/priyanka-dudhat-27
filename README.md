@@ -67,7 +67,7 @@
 <!-- part 3 -->
 
 <!-- part 4 -->
-# Github Stats
+<!-- # Github Stats
 <div align="center">
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
     <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Night Rainbow">
@@ -84,7 +84,7 @@
 </div>
 </div>
 
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p> -->
 <!-- part 4 -->
 
 # Leetcode Stats
@@ -97,7 +97,6 @@
 # Contact Me :
 
 
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mohit_dudhat22)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/priyankadudhat27/)
 <!-- part 5 -->
 ---
