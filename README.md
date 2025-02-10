@@ -1,6 +1,6 @@
 
 <!-- part-1  -->
-# Hi There..! 👋
+# Hi There  !!! 👋
 
 <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Priyanka+Dudhat..!" alt="Typing SVG" /></a>
@@ -19,19 +19,17 @@
 <!-- part 2 -->
 # About ME 💬 :
 
-### - I'm 20 years old Computer Enthusiast from India.
+### - I'm Computer Enthusiast from India.
 
 <img hight="300" width="400" alt="GIF" align="right" src="./assets/About.gif" style="margin-bottom:30px">
 
 ### - Learning :
 
-- ✨ Data Structures & Algorithms
-- ✨ DevOps
+- ✨ React js,Next JS,Node JS,Express JS,Redish,Socket.io,Video Calling Features
 
 ### - Hobbies :
 
-- ✨ Chess Addict
-- ✨ Watching Anime
+- ✨ Business Adict
 - ✨ Gym
 
 </br>
